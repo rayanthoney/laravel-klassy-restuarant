@@ -1,4 +1,66 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🛠 Laravel Restuarant Management System Project.
+
+<br>
+<br>
+
+<div align="center" >
+<!-- link to project -->
+    <a href='-URL TO DEMO GOES HERE-'>
+    <!-- link to local image -->
+        <img src="public\assets\images\klassy.png" alt="" height="100%"/>
+    </a>
+
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
+
+<p>
+<a href="-URL TO GITHUB GOES HERE">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
+</a>
+<a href="-URL DEMO GOES HERE-" target="_blank">
+<img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/>
+</a>
+</p>
+</div>
+
+<br>
+
+<div align="center">
+    <img  src="https://yt3.googleusercontent.com/ytc/AOPolaTB28nKAg4q-zBZmPG-QWwR3fQuIN-lGmPi6i1-=s176-c-k-c0x00ffffff-no-rj" width="64">
+</div>
+
+<br>
+
+-   [#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup](https://youtu.be/QhGhi2In5jo)
+    -   [GitHub Code (give it a star ⭐):]()
+    -   [Free Restuarant Template:](https://templatemo.com/)
+    -   [GitHub Gist Code:]()
+    -   [Deployed Site]()
+
+<br>
+
+In this course, you'll learn the following ::
+
+#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup
+
+-   The video is a tutorial for creating a Laravel-based Restaurant Management System.
+-   It covers the initial setup process for the Laravel project.
+
+## Technologies Used ::
+
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel" />
+  </a>
+</p>
+
+
+
+
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -63,4 +125,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
