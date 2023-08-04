@@ -19,23 +19,26 @@
         <img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/></a>
     </p>
 </div>
+    <hr>
     <br>
 <div align="center">
   <img  src="https://yt3.googleusercontent.com/ytc/AOPolaTB28nKAg4q-zBZmPG-QWwR3fQuIN-lGmPi6i1-=s176-c-k-c0x00ffffff-no-rj" width="64">    
   <br>
+  <br>
   <p>
     <a href="https://youtu.be/QhGhi2In5jo" target="_blank">#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup</a>             
     <ul align="left">
-      <li>[GitHub Code (give it a star ⭐):]()
-      <li>[Free Restuarant Template:](https://templatemo.com/)
-      <li>[GitHub Gist Code:]()
-      <li>[Deployed Site]()
+      <li><a href="#">GitHub Code (give it a star ⭐):</a></li>
+      <li><a href="https://templatemo.com/">Free Restuarant Template:</a></li>
+      <li><a href="#">GitHub Gist Code:</a></li>
+      <li><a href="#">Deployed Site</a></li>
     </ul>
   </p>
     <br>
     <p align="left">
     In this course, you'll learn the following ::
     #1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup The video is a tutorial for creating a Laravel-based Restaurant Management System. It covers the initial setup process for the Laravel project.</p>
+    <hr>
     <h2 align="left">Technologies Used ::</h2>
     <br>
     <p align="left">Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.</p>
