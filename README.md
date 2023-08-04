@@ -2,63 +2,49 @@
 
 <br>
 <br>
-
+<!-- Banner Section -->
 <div align="center" >
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
         <img src="public\assets\images\klassy.png" alt="" height="100%"/>
     </a>
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-<p>
-<a href="-URL TO GITHUB GOES HERE">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
-</a>
-<a href="-URL DEMO GOES HERE-" target="_blank">
-<img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/>
-</a>
-</p>
+    <br>
+    <br>
+    <p>
+      <a href="-URL TO GITHUB GOES HERE">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
+      </a>
+      <a href="-URL DEMO GOES HERE-" target="_blank">
+        <img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/></a>
+    </p>
 </div>
-
-<br>
-
+    <br>
 <div align="center">
-    <img  src="https://yt3.googleusercontent.com/ytc/AOPolaTB28nKAg4q-zBZmPG-QWwR3fQuIN-lGmPi6i1-=s176-c-k-c0x00ffffff-no-rj" width="64">
+  <img  src="https://yt3.googleusercontent.com/ytc/AOPolaTB28nKAg4q-zBZmPG-QWwR3fQuIN-lGmPi6i1-=s176-c-k-c0x00ffffff-no-rj" width="64">    
+  <br>
+  <p>
+    <a href="https://youtu.be/QhGhi2In5jo" target="_blank">#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup</a>             
+    <ul align="left">
+      <li>[GitHub Code (give it a star ⭐):]()
+      <li>[Free Restuarant Template:](https://templatemo.com/)
+      <li>[GitHub Gist Code:]()
+      <li>[Deployed Site]()
+    </ul>
+  </p>
+    <br>
+    <p align="left">
+    In this course, you'll learn the following ::
+    #1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup The video is a tutorial for creating a Laravel-based Restaurant Management System. It covers the initial setup process for the Laravel project.</p>
+    <h2 align="left">Technologies Used ::</h2>
+    <br>
+    <p align="left">Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.</p>
+    <br>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel,livewire" /></a></p>
+    <br>
 </div>
-
-<br>
-
--   [#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup](https://youtu.be/QhGhi2In5jo)
-    -   [GitHub Code (give it a star ⭐):]()
-    -   [Free Restuarant Template:](https://templatemo.com/)
-    -   [GitHub Gist Code:]()
-    -   [Deployed Site]()
-
-<br>
-
-In this course, you'll learn the following ::
-
-#1 Laravel Restaurant Management System Project Tutorial | Laravel Project Setup
-
--   The video is a tutorial for creating a Laravel-based Restaurant Management System.
--   It covers the initial setup process for the Laravel project.
-
-## Technologies Used ::
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel" />
-  </a>
-</p>
-
-
-
 
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
