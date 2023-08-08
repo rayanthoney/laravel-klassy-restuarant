@@ -54,7 +54,7 @@
                         </div>
 
                         <div class="col-md-6 col-sm-12">                          
-                          <input type="number" name="guest" placeholder="Number of Guest">
+                          <input type="number" name="guest" placeholder="Number of Guest*">
                         </div>
                         <div class="col-lg-6">
                             <div id="filterDate2">    
