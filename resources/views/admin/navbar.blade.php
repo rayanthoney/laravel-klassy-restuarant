@@ -19,7 +19,6 @@
             <span class="menu-title">Users</span>
           </a>
         </li>
-        
         <li class="nav-item menu-items">
           <a class="nav-link" href="{{ '/foodmenu' }}">
             <span class="menu-icon">
@@ -48,7 +47,6 @@
           </a>
         </li>        
       </ul>
-    </nav>
-    
-        <!-- partial -->
-      </div>
+    </nav>    
+   <!-- partial -->
+</div>
