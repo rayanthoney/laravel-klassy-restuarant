@@ -13,8 +13,8 @@
   <body> 
 
     <div class="container-scroller">
-        @include("admin.navbar");
-
+        @include("admin.navbar")
+        
         <div style="position:  relative; top: 60px; right: -150px">
             <form action="{{ url('/update',$data->id) }}" method="post" enctype="multipart/form-data">
 

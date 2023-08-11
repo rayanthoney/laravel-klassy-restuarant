@@ -19,7 +19,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get("/",[HomeController::class,"index"]);
 
-// I am removing the route redirects. I am testing it auto populating:::
 Route::get("/redirects",[HomeController::class,"redirects"]);
 
 Route::get("/users",[AdminController::class,"user"]);
