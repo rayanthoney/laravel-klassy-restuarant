@@ -5,9 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
     @include("admin.admincss")
-
   </head>
   <body> 
 
