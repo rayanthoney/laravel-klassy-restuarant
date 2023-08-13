@@ -204,14 +204,14 @@ https://templatemo.com/tm-558-klassy-cafe
     <!-- ***** Menu Area Ends ***** -->
 
     <!-- ***** Chefs Area Starts ***** -->
-    @include(foodchef)
+    @include("foodchef")
     <!-- ***** Chefs Area Ends ***** -->
 
     <!-- ***** Reservation Us Area Starts ***** -->
     @include("reservation")
     <!-- ***** Reservation Area Ends ***** -->
 
-    <!-- ***** Menu Area Starts ***** -->
+    <!-- ***** Offers Area Starts ***** -->
     <section class="section" id="offers">
         <div class="container">
             <div class="row">
@@ -475,7 +475,7 @@ https://templatemo.com/tm-558-klassy-cafe
             </div>
         </div>
     </section>
-    <!-- ***** Chefs Area Ends ***** --> 
+    <!-- ***** Offers Area Ends ***** --> 
     
     <!-- ***** Footer Start ***** -->
     <footer>
