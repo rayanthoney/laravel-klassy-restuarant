@@ -102,8 +102,8 @@ class AdminController extends Controller
 
     public function viewchef()
     {
-    $data=foodchef::all();
-        return view("admin.adminchef",compact("data"));
+        $data = foodchef::all();
+        return view("admin.adminchef", compact("data"));
     }
 
     public function uploadchef(Request $request)
@@ -111,22 +111,43 @@ class AdminController extends Controller
         $data = new foodchef;
 
         $image = $request->image;
-            $imagename = time() . '.' . $image->getClientOriginalExtension();
-            $request->image->move('chefimage', $imagename);
-            $data->image = $imagename;
+        $imagename = time() . '.' . $image->getClientOriginalExtension();
+        $request->image->move('chefimage', $imagename);
+        $data->image = $imagename;
 
-            $data->name=$request->name;
-            $data->speciality=$request->speciality;
+        $data->name = $request->name;
+        $data->speciality = $request->speciality;
 
-            $data->save();
+        $data->save();
 
-            return redirect()->back();
+        return redirect()->back();
     }
 
     public function updatechef($id)
     {
-        $data=foodchef::find($id);
+        $data = foodchef::find($id);
 
-        return view("admin.updatechef",compact("data"));
+        return view("admin.updatechef", compact("data"));
+    }
+
+    public function updatefoodchef(Request $request, $id)
+    {
+        $data = foodchef::find($id);
+
+        return view("admin.updatefoodchef", compact("data"));
+
+        $image = $request->image;
+        if ($image) {
+            $imagename = time() . '.' . $image->getClientOriginalExtension();
+            $request->image->move('chefimage', $imagename);
+            $data->image = $imagename;
+        }
+
+        $data->name - $request->name;
+        $data->speciality - $request->speciality;
+
+        $data->save();
+
+        return redirect()->back();
     }
 }
