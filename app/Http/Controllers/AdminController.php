@@ -101,8 +101,7 @@ class AdminController extends Controller
     }
 
     public function viewchef()
-    {it
-
+    {
     $data=foodchef::all();
         return view("admin.adminchef",compact("data"));
     }
