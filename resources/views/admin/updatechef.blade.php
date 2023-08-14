@@ -21,11 +21,11 @@
 
        <div>
          <label for="">Chef Name</label>
-         <input style="color: blue" type="text" speciality="name" id="" value="{{ $data->name }}">
+         <input style="color: blue" type="text" name="name" id="" value="{{ $data->name }}">
         </div>
        <div>
          <label for="">Speciality</label>
-         <input style="color: blue" type="text" speciality="speciality" id="" value="{{ $data->speciality }}">
+         <input style="color: blue" type="text" name="speciality" id="" value="{{ $data->speciality }}">
         </div>
         <div>
           <label for="">Old Image</label>
@@ -33,7 +33,7 @@
         </div>
       <div>
         <label for="">New Image</label>
-        <input type="file" required>
+        <input type="file" name="image">
       </div>
       <div>
         <input style="color: blue;" type="submit" value="Update Chef" required>
