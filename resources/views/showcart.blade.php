@@ -145,6 +145,7 @@ https://templatemo.com/tm-558-klassy-cafe
                 <th style="padding: 30px">Food Name</th>
                 <th style="padding: 30px">Price</th>
                 <th style="padding: 30px">Quantity</th>
+                <th style="padding: 30px">Action</th>
             </tr>
     
             @foreach ($data as $data)
@@ -152,6 +153,7 @@ https://templatemo.com/tm-558-klassy-cafe
                 <td>{{ $data->title }}</td>
                 <td>{{ $data->price }}</td>
                 <td>{{ $data->quantity }}</td>
+                <td><a href="" class="btn btn-warning">Remove</a></td>
             </tr>
             @endforeach
     
