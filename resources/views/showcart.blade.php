@@ -153,7 +153,7 @@ https://templatemo.com/tm-558-klassy-cafe
                 <td>{{ $data->title }}</td>
                 <td>{{ $data->price }}</td>
                 <td>{{ $data->quantity }}</td>
-                <td><a href="" class="btn btn-warning">Remove</a></td>
+                <td><a href="$data->id" class="btn btn-warning">Remove</a></td>
             </tr>
             @endforeach
     
