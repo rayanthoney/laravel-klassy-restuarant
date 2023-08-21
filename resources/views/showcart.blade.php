@@ -153,9 +153,15 @@ https://templatemo.com/tm-558-klassy-cafe
                 <td>{{ $data->title }}</td>
                 <td>{{ $data->price }}</td>
                 <td>{{ $data->quantity }}</td>
-                <td><a href="$data->id" class="btn btn-warning">Remove</a></td>
+                
             </tr>
             @endforeach
+
+            <tr style="position: relative; top: -60px; right: -360px;">
+                @foreach ($data2 as $data2)
+                <td><a href="{{ url('/remove',$data2->id) }}" class="btn btn-warning">Remove</a></td>
+                @endforeach
+            </tr>
     
     
         </table>
