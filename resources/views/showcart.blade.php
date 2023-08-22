@@ -168,6 +168,28 @@ https://templatemo.com/tm-558-klassy-cafe
     </div>
     {{-- Table Area End --}}
 
+    <div align="center" style="padding: 10px">
+        <button class="btn btn-primary">Order Now</button>
+    </div>
+
+    <div align="center" style="padding: 10px">
+        <div style="padding: 10px">
+            <label for="">Name</label>
+            <input type="text" name="name" placeholder="Name">
+        </div>
+        <div style="padding: 10px">
+            <label for="">Phone</label>
+            <input type="number" name="number" placeholder="Phone Number">
+        </div>
+        <div style="padding: 10px">
+            <label for="">Address</label>
+            <input type="text" name="address" placeholder="Adress">
+        </div>
+        <div style="padding: 10px">
+            <input class="btn btn-success" type="submit" value="Order Confirm">            
+        </div>
+    </div>
+
 
 
     <!-- jQuery -->
